@@ -1,0 +1,19 @@
+{
+  "name": "ulizaPluginVer1.8",
+  "version": "0.0.0",
+  "homepage": "https://github.com/momotaro0307/ulizaPlayer",
+  "authors": [
+    "momotaro0307 <momotaro03071225@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "ulizaPlayer": "git@github.com:momotaro0307/ulizaPlayer.git"
+  }
+}
